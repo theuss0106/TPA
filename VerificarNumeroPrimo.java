@@ -4,7 +4,7 @@
 
 package com.mycompany.verificarnumeroprimo;
 
-/**Eu, Matheus Sampaio Moreira criei um projeto java que calcula a média de quatro notas
+/**Eu, Matheus Sampaio Moreira criei um projeto java que verifica se o número digitado é um número primo ou não
  *
  * @author FATEC ZONA LESTE
  */
