@@ -4,7 +4,7 @@
 
 package com.mycompany.verificarnumeroprimo;
 
-/**
+/**Eu, Matheus Sampaio Moreira criei um projeto java que calcula a média de quatro notas
  *
  * @author FATEC ZONA LESTE
  */
